@@ -1,0 +1,17 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-html-to-image": "^3.1.0",
+    "node-static": "^0.7.11",
+    "node-video-lib": "^2.2.0"
+  }
+}
